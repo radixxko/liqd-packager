@@ -1,0 +1,24 @@
+{
+  "name": "liqd-packager",
+  "description": "Packager for Liqd Framework",
+  "version": "0.0.1",
+  "author": "radixxko",
+  "license": "MIT",
+  "main": "lib/packager.js",
+  "files": [
+    "lib/"
+  ],
+  "scripts":
+  {
+    "packager": "node liqd-packager"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/radixxko/liqd-packager.git"
+  },
+  "keywords": [
+    "packager",
+    "liqd"
+  ],
+  "dependencies": {}
+}
